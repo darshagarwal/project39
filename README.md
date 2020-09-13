@@ -1,2 +1,1 @@
-# project39
-debug game
+# C39-Debug-Part-1
